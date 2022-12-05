@@ -1,0 +1,12 @@
+Top 10 exploited vulnerabilities in 2022
+
+1.Log4Shell (CVE-2021-44228)
+2.Follina (CVE-2022-30190)
+3.Spring4Shell (CVE-2022-22965)
+4.Google Chrome zero-day (CVE-2022-0609)
+5.F5 BIG-IP (CVE-2022-1388)
+6.Microsoft Office bug (CVE-2017-11882)
+7.ProxyNotShell (CVE-2022-41082, CVE-2022-41040)
+8.Zimbra Collaboration Suite bugs (CVE-2022-27925, CVE-2022-41352)
+9.Atlassian Confluence RCE flaw (CVE-2022-26134)
+10.Zyxel RCE vulnerability (CVE-2022-30525)
